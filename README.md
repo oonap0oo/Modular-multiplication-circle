@@ -10,6 +10,11 @@ This Python code draws modular multiplication circles, it has two sliders to adj
 The code: 
 [mod_mult_circle_v5.py](mod_mult_circle_v5.py)
 
+The code uses tkinter to show the image in real time, tkinter comes buld in with a CPython install. It also uses the PIL or Pillow library to export the image as PNG file, Pillow (PIL) is a seperate install.
+
+Pillow:
+[https://pypi.org/project/pillow/](https://pypi.org/project/pillow/)
+
 Some examples:
 
 ![mod_mult_circle11.png](mod_mult_circle11.png)
