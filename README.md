@@ -1,2 +1,19 @@
 # Modular-multiplication-circle
 Drawing Modular multiplication circles using Python
+
+![mod_mult_circle_v5_screenshot.png](mod_mult_circle_v5_screenshot.png)
+
+Found on the web: <i>"A modular multiplication circle is a visualization that uses a circle to represent numbers in a specific modulus and draws lines to connect points based on a multiplication pattern. "</i>
+
+This Python code draws modular multiplication circles, it has two sliders to adjust the values of the m and p parameters. The image can be exported to a PNG file with a right mouse click.
+
+The code: 
+[mod_mult_circle_v5.py](mod_mult_circle_v5.py)
+
+Some examples:
+
+![mod_mult_circle11.png](mod_mult_circle11.png)
+
+![mod_mult_circle4.png](mod_mult_circle4.png)
+
+![mod_mult_circle5.png](mod_mult_circle5.png)
