@@ -15,6 +15,8 @@ The code uses tkinter to show the image in real time, tkinter comes buld in with
 Pillow:
 [https://pypi.org/project/pillow/](https://pypi.org/project/pillow/)
 
+The code needs the seperate font file [FreeMono.ttf](FreeMono.ttf) to be present in the same folder. It is used to put text on the exported image.
+
 Some examples:
 
 ![mod_mult_circle11.png](mod_mult_circle11.png)
