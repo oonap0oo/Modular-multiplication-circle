@@ -17,6 +17,19 @@ Pillow:
 
 The code needs the seperate font file [FreeMono.ttf](FreeMono.ttf) to be present in the same folder. It is used to put text on the exported image.
 
+# Modular-multiplication-square
+
+A variant maps the points on a square iso. circle:
+
+The code: [mod_mult_square.py](mod_mult_square.py)
+
+![mod_mult_square_368_53.png](mod_mult_square_368_53.png)
+
+![mod_mult_square_364_105.png](mod_mult_square_364_105.png)
+
+
+
+
 Some examples:
 
 ![mod_mult_circle11.png](mod_mult_circle11.png)
