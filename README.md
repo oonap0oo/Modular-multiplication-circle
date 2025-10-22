@@ -1,4 +1,6 @@
-# Modular-multiplication-circle
+# Modular multiplication
+
+## Modular multiplication circle
 Drawing Modular multiplication circles using Python
 
 ![mod_mult_circle_v5_screenshot.png](mod_mult_circle_v5_screenshot.png)
@@ -25,7 +27,7 @@ Some examples:
 
 ![mod_mult_circle5.png](mod_mult_circle5.png)
 
-# Modular-multiplication-square
+## Modular multiplication square
 
 A variant maps the points on a square iso. circle:
 
@@ -34,3 +36,16 @@ The code: [mod_mult_square.py](mod_mult_square.py)
 ![mod_mult_square_368_53.png](mod_mult_square_368_53.png)
 
 ![mod_mult_square_364_105.png](mod_mult_square_364_105.png)
+
+## Modular multiplication triangle
+Mapping the points on a square.
+
+The code: [mod_mult_triangle.py](mod_mult_triangle.py)
+
+![mod_mult_triangle_436_330.png](mod_mult_triangle_436_330.png)
+
+![mod_mult_triangle_488_328.png](mod_mult_triangle_488_328.png)
+
+![mod_mult_triangle_524_351.png](mod_mult_triangle_524_351.png)
+
+![mod_mult_triangle_544_218.png](mod_mult_triangle_544_218.png)
