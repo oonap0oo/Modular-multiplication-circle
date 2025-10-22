@@ -38,7 +38,7 @@ The code: [mod_mult_square.py](mod_mult_square.py)
 ![mod_mult_square_364_105.png](mod_mult_square_364_105.png)
 
 ## Modular multiplication triangle
-Mapping the points on a square.
+Mapping the points on a triangle.
 
 The code: [mod_mult_triangle.py](mod_mult_triangle.py)
 
