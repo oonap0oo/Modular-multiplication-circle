@@ -1,11 +1,36 @@
 # Modular multiplication
 
+## Modular multiplication circle, triangle and square
+Drawing Modular multiplication circle, triangle and square using Python.
+
+![modular_mult_shapes_screenshot.png](modular_mult_shapes_screenshot.png)
+
+The code:
+[modular_mult_shapes.py](modular_mult_shapes.py)
+
+The code uses tkinter to show the image in real time, tkinter comes buld in with a CPython install. It also uses the PIL or Pillow library to export the image as PNG file, Pillow (PIL) is a seperate install.
+
+Pillow:
+[https://pypi.org/project/pillow/](https://pypi.org/project/pillow/)
+
+The code needs the seperate font file [FreeMono.ttf](FreeMono.ttf) to be present in the same folder. It is used to put text on the exported image.
+
+Found on the web: <i>"A modular multiplication circle is a visualization that uses a circle to represent numbers in a specific modulus and draws lines to connect points based on a multiplication pattern. "</i>
+
+This Python code draws modular multiplication circles, triangles and squares, it has two sliders to adjust the values of the m and p parameters. The colors can be changed. The image can be exported to a PNG file with a right mouse click.
+
+Some examples:
+
+![mod_mult_circle_424_78.png](mod_mult_circle_424_78.png)
+
+![mod_mult_circle_436_111.png](mod_mult_circle_436_111.png)
+
+# Older versions:
+
 ## Modular multiplication circle
 Drawing Modular multiplication circles using Python
 
 ![mod_mult_circle_v5_screenshot.png](mod_mult_circle_v5_screenshot.png)
-
-Found on the web: <i>"A modular multiplication circle is a visualization that uses a circle to represent numbers in a specific modulus and draws lines to connect points based on a multiplication pattern. "</i>
 
 This Python code draws modular multiplication circles, it has two sliders to adjust the values of the m and p parameters. The image can be exported to a PNG file with a right mouse click.
 
