@@ -5,8 +5,8 @@ Drawing Modular multiplication circle, triangle and square using Python.
 
 ![modular_mult_shapes_screenshot.png](modular_mult_shapes_screenshot.png)
 
-The code:
-[modular_mult_shapes.py](modular_mult_shapes.py)
+<b>The code:
+[modular_mult_shapes.py](modular_mult_shapes.py)</b>
 
 The code uses tkinter to show the image in real time, tkinter comes buld in with a CPython install. It also uses the PIL or Pillow library to export the image as PNG file, Pillow (PIL) is a seperate install.
 
